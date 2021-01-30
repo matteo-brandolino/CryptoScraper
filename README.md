@@ -4,10 +4,13 @@
 <p>You can scrape the pages of three exchange(Coinbase, Kraken and Binance) in order to discover the price of Bitcoin and Ethereum</p>
 
 <h1>How to run locally</h1>
- ```
-git status
-git add
-git commit
+<ol>
+<li>Change variables in .env</li>
+<li>Install packages in server folder</li>
 ```
+cd server
+npm install
+```
+</ol>
 
 
