@@ -4,8 +4,10 @@
 <p>You can scrape the pages of three exchange(Coinbase, Kraken and Binance) in order to discover the price of Bitcoin and Ethereum</p>
 
 <h1>How to run locally</h1>
-  ```ruby
-resources :dolor
-  ```
+ ```
+git status
+git add
+git commit
+```
 
 
