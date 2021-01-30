@@ -1,0 +1,35 @@
+/* Pacman animation */
+@keyframes pacman {
+    25%{margin-right:80px}
+    50%{margin-right:60px}
+    100%{margin-right:30px}
+}
+
+.switch-class {
+    padding-top: 6em;
+    width: fit-content;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.loader-class {
+    margin-right: 100px;
+    position: relative;
+    animation-name: pacman;
+    animation-duration: 12s
+}
+.fa-hand-holding-usd:before {
+    font-size: 1.75rem;
+}
+@media (max-width:1199px) {
+    .scraper-data {
+        margin-bottom: 3em;
+    }
+    .row.row-results {
+        height: 25em;
+        overflow: auto;
+    }
+}

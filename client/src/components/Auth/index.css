@@ -1,0 +1,21 @@
+.auth-container {
+    height: 100vh;
+    background-image: url("https://images.pexels.com/photos/1036644/pexels-photo-1036644.jpeg?cs=srgb&dl=pexels-moose-photos-1036644.jpg&fm=jpg");
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  .card-body_auth {
+    width: 26em;
+  }
+  
+  .card, .btn-default {
+    border-radius: 30px;
+  }
+  
+  a.link-auth {
+    color: rgb(92, 78, 155);
+  }
