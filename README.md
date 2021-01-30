@@ -7,7 +7,7 @@
 <ol>
 <li>Change variables in .env</li>
 <li>Install packages in server folder</li>
-```javscript
+```javascript
 cd server
 ```
 </ol>
